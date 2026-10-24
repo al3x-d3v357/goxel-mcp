@@ -23,6 +23,12 @@
 
 O **Goxel MCP Server** expõe as capacidades de modelagem, escultura procedural e renderização do [Goxel](https://guillaumechereau.github.io/goxel/) diretamente para modelos de linguagem (LLMs) e agentes autônomos.
 
+<p align="center">
+  <img src="assets/preview.png" alt="Goxel MCP Server em Ação - Cyberpunk Archer na GUI do Goxel" width="850" style="border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);" />
+  <br>
+  <em>Modelo <code>cyberpunk_archer.vox</code> gerado proceduralmente via MCP e aberto diretamente na GUI do Goxel.</em>
+</p>
+
 Com este servidor, seu agente de IA pode:
 - 🧙‍♂️ **Gerar Personagens 3D Completos** prontos em voxel (`archer`, `tank`, `mage`, `support`, `elf_healer`, `cyberpunk_archer`).
 - ⚔️ **Esculpir Armas e Objetos de Cenário** (espadas, escudos, arcos, cajados, baús, tochas, poções, pilares).
