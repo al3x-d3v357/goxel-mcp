@@ -1,0 +1,38 @@
+{
+  "name": "goxel-mcp",
+  "version": "1.0.0",
+  "description": "Model Context Protocol (MCP) Server for Goxel - 3D procedural voxel modeling, character/object generation, conversion (.vox, .obj, .gltf, .png) and GUI automation for AI agents.",
+  "main": "server.js",
+  "bin": {
+    "goxel-mcp": "./server.js"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "mcp",
+    "model-context-protocol",
+    "goxel",
+    "voxel",
+    "voxel-art",
+    "3d-modeling",
+    "antigravity",
+    "opencode",
+    "claude-desktop",
+    "cursor",
+    "gamedev"
+  ],
+  "author": "Alex Sandro <al3x-d3v357>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/al3x-d3v357/goxel-mcp.git"
+  },
+  "bugs": {
+    "url": "https://github.com/al3x-d3v357/goxel-mcp/issues"
+  },
+  "homepage": "https://github.com/al3x-d3v357/goxel-mcp#readme",
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
