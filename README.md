@@ -1,4 +1,4 @@
-# Goxel MCP Server 🧊🤖
+# Goxel MCP Server 
 
 <p align="center">
   <img src="assets/goxel.png" alt="Goxel Logo" width="160" />
